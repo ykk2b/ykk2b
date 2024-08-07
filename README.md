@@ -30,5 +30,3 @@ React/Rust Developer
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="rust logo"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/ykk2b/ykk2b/output/snake.svg" alt="Snake animation" />
